@@ -1,3 +1,4 @@
+["Coffee Shop Analysis"](https://github.com/RISHIKA-GAUTAM/Excel_Coffee_Shop_Sales_Analysis/blob/main/COFFEE%20SALES%20DASHBOARD.jpeg)
 # ☕ Coffee Shop Sales Analysis 📊
 
 Welcome to the **Coffee Shop Sales Analysis project**! This repository showcases an in-depth exploration of sales data to uncover actionable insights for coffee shop success. 🍩✨
